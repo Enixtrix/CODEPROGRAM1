@@ -1,0 +1,30 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-11-22 20:26:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-11-22 20:26:45 -0500"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-11-22 20:29:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-11-22 20:29:58 -0500",
+      "cooked_salmon": "2025-11-22 20:29:56 -0500",
+      "pumpkin_pie": "2025-11-22 20:30:01 -0500",
+      "golden_carrot": "2025-11-22 20:30:10 -0500"
+    },
+    "done": false
+  },
+  "DataVersion": 3955
+}
